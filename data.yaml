@@ -1,0 +1,5 @@
+train: /content/drive/My Drive/RiceLeafDisease/train/images
+val: /content/drive/My Drive/RiceLeafDisease/valid/images
+test: /content/drive/My Drive/RiceLeafDisease/test/images
+nc: 4
+names: ['Bacterial Blight', 'Blast', 'Brown Spot', 'Twisted Draft']
